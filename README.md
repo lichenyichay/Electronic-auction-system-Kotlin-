@@ -1,2 +1,7 @@
 # Electronic-auction-system-Kotlin-
 电子拍卖系统（Kotlin版）
+转载至《Kotlin开发快速入门与实践》
+正在开发
+版本信息：
+JDK版本：待定
+编辑器：IntelliJ IDEA 2022.2版
