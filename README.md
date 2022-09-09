@@ -1,8 +1,8 @@
 # Electronic-auction-system-Kotlin-
-Electronic-auction-system-Kotlin
-Reprinted to《Kotlin开发快速入门与实践》
-It’s being developed
-Version information：
+电子拍卖系统（Kotlin版）
+转载至《Kotlin开发快速入门与实践》
+正在开发
+版本信息：
 The JDK version：18
-Editor：IntelliJ IDEA 2022.2.1
-Open source protocol：Apache License 2.0
+编辑器：IntelliJ IDEA 2022.2.1 Community版
+开源协议：Apache License 2.0
