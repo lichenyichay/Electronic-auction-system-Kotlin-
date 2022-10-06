@@ -10,4 +10,9 @@
             android:scaleType = "fitCenter"
             android:src = "@drawable/logo"
             android:contentDescription="@string/hello/"
+/><TextView
+            android:text = "@string/welcome"
+            android:id = "@+id/TextView"
+            android:textSize = "@dimen/label_font_size"
 />
+</TableLayout>
